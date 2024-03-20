@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Data Sources](#data-sources)
 - [Problem statement](#problem-statement)
+- [Skills/ Concepts demonstrated](#skills-concepts-demonstrated)
 - [Visualization](#visualization)
 - [Recommendations](#recommendations)
 - [References](#references)
