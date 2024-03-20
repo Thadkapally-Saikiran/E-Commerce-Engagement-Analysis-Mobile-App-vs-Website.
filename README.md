@@ -6,6 +6,9 @@
 ## Introduction
 This project tackles an important question for an E-Commerce clothing company in Iowa. They offer both online and in-store style consultations, but they need to decide where to focus their resources. Should they put more effort into their mobile app or their website? The goal is to make sure customers are happy and buy more clothes, so the company wants to know which platform is better for customer engagement and sales.
 
+## Data Sources
+The dataset is downloaded from the ![[kaggle]](https://www.kaggle.com/datasets/srolka/ecommerce-customers)
+
 ## Problem statement
 1. Analyze customer behavior and spending patterns:
    * The goal is to understand how various customer engagement metrics (time on app, website, session length, membership duration) influence their yearly spending on an e-commerce platform
@@ -35,6 +38,27 @@ The following Python vs Machine Learning features were incorporated:
 
 ## Visualization:
 
-visual-1             |      visual-2
-:-------------------:|:-------------------:
-![](heat-map.png)
+Heat-Map   
+---
+![](heat-map.png)  
+
+Pair-Plot
+---
+![](pairplot.png)
+
+## Recommendations:
+Based on the analysis, we recommend the following actions:
+- Focus on improving app engagement
+   * Since there seems to be a strong correlation between time spent on the app and amount of money spent, you can focus on strategies to keep users engaged with the app for longer periods of time. This could include things like gamification, personalized recommendations, and exclusive offers for app users.
+- Target website visitors with retargeting campaigns
+  * Since time spent on the website also seems to be correlated with spending, you can target website visitors with retargeting campaigns to encourage them to make a purchase.
+- Develop strategies to retain members
+  * The data suggests that longer memberships lead to higher spending. You can develop strategies to retain members, such as offering loyalty programs and exclusive benefits for long-term members.
+- Develop strategies to retain existing members
+  *  This could include offering loyalty programs, discounts, or exclusive content to members.
+- Encourage customers to sign up for memberships
+  * You could offer a free trial or discount on the first year of membership.
+- Target your marketing campaigns to high-value customers
+  * These are the customers who are most likely to spend a lot of money on your platform.
+
+Overall, by focusing on improving customer engagement through the app and website, and developing strategies to retain members, you can encourage customers to spend more money on your e-commerce platform
