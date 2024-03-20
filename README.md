@@ -1,6 +1,6 @@
 # E-Commerce-Customers-Data-Analysis
 
-![](intro_image.jpg)
+![](intro-caption.gif)
 ---
 
 ## Table of Contents
