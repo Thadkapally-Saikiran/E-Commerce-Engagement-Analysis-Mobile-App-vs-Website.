@@ -35,3 +35,6 @@ The following Python vs Machine Learning features were incorporated:
 
 ## Visualization:
 
+visual-1             |      visual-2
+:-------------------:|:-------------------:
+![](heat-map.png)
