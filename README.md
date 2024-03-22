@@ -79,7 +79,7 @@ Based on the analysis, we recommend the following actions:
 - Target your marketing campaigns to high-value customers
   * These are the customers who are most likely to spend a lot of money on your platform.
  
-![](ecommerce_img.gif)       |     ![](ecommerce_img2.webp)
+![](ecommerce_img.gif)       |     ![](ecommerce_img2.webp)   |   ![](ecommerce_img3.gif)
 
 ### References
 1. Popular Machine Learning Algorithms.
