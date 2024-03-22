@@ -78,6 +78,8 @@ Based on the analysis, we recommend the following actions:
   * You could offer a free trial or discount on the first year of membership.
 - Target your marketing campaigns to high-value customers
   * These are the customers who are most likely to spend a lot of money on your platform.
+ 
+![](
 
 ### References
 1. Popular Machine Learning Algorithms.
