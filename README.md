@@ -1,4 +1,4 @@
-## Optimizing Mobile App vs. Website for E-Commerce Sales
+## E-Commerce Engagement Analysis: Mobile App vs Website
 
 ![](intro-caption.gif)
 ---
