@@ -1,4 +1,4 @@
-## E-Commerce Engagement Analysis: Mobile App vs Website
+## Digital Engagement Analysis: Mobile App vs Website
 
 ![](intro-caption.gif)
 ---
